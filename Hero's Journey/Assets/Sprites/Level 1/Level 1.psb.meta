@@ -1,0 +1,667 @@
+fileFormatVersion: 2
+guid: 8f15090c995803547aa1e1319fa779af
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 1
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 0
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: "Arv\xF3res final"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4024
+      y: 1092
+      width: 1374
+      height: 941
+    spriteID: 4a9bc956c36f6e140aa7c41fb5f241d2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -362, y: 1092}
+  - name: Ponte para fora do mapa
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5406
+      y: 1092
+      width: 1499
+      height: 781
+    spriteID: 27fd722ff4959ca4c987e36b7e777383
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1458, y: 793}
+  - name: "Sa\xEDda do casteki"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5772
+      y: 2180
+      width: 1301
+      height: 330
+    spriteID: 9751d3c2a136c9f429e9539ff912b150
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1313, y: 2180}
+  - name: Ponte para o fundo do castelo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7081
+      y: 2180
+      width: 543
+      height: 150
+    spriteID: e072dc8cc6ae119468db1404a9294b2c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5412, y: 1897}
+  - name: Fundo do castelo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1092
+      width: 4012
+      height: 1080
+    spriteID: ec04deac60a829643bb8b46884c6e743
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1092}
+  - name: Castelo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5772
+      y: 4
+      width: 1905
+      height: 1067
+    spriteID: c47a828bf3a2d92429b15e3ad26a07ce
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3652, y: 4}
+  - name: montanhas
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2919
+      width: 5243
+      height: 698
+    spriteID: 777ff35286c039f4b97bfa3e20fcc3ed
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2919}
+  - name: "N\xFAvens"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2180
+      width: 5760
+      height: 731
+    spriteID: 37fd0f217866a2d4c99de01f08247b90
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1970}
+  - name: "c\xE8u"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 5760
+      height: 1080
+    spriteID: bc2b00e738d62ff46a22715c19ce2a7d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7793
+      y: 2317
+      width: 0
+      height: 0
+    spriteID: 61f06f9afc6db5149ae64b0d7fc67b37
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2033, y: 1237}
+  - name: Chama2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7942
+      y: 2180
+      width: 31
+      height: 42
+    spriteID: 9a1fe1614ce52744db8dfc01e22f2342
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5195, y: 1752}
+  - name: Tocha2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7793
+      y: 2180
+      width: 20
+      height: 129
+    spriteID: 2fa463a0a6ba2df488bda688d332eefb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5039, y: 1877}
+  - name: Chama
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7981
+      y: 2180
+      width: 31
+      height: 42
+    spriteID: 7603cbafc9ec650409cff7fe3a39b211
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4808, y: 1741}
+  - name: Tocha
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7821
+      y: 2180
+      width: 20
+      height: 129
+    spriteID: 90f5313318b69824e971ddb5f6935074
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4644, y: 1866}
+  - name: Chama4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7896
+      y: 2180
+      width: 38
+      height: 45
+    spriteID: 62e5574ff3693cb49bb24575784a2b0c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4300, y: 1484}
+  - name: Tocha4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7713
+      y: 2180
+      width: 72
+      height: 144
+    spriteID: eb17befd0427faa40a882bd014aa8118
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4165, y: 1620}
+  - name: Chama3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7849
+      y: 2180
+      width: 39
+      height: 50
+    spriteID: 1d61cb964e4f1554d8cdcd2e4861b61e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5616, y: 1489}
+  - name: Tocha3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7632
+      y: 2180
+      width: 73
+      height: 144
+    spriteID: df87379cee260184b8718129574505dc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5380, y: 1622}
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 0
+  importHiddenLayers: 0
+  importedTextureWidth: 8192
+  importedTextureHeight: 8192
+  documentSize: {x: 5760, y: 1080}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 8192
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Level 1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 3
+    mosaicPosition: {x: 0, y: 0}
+  - name: "Arv\xF3res final"
+    spriteName: "Arv\xF3res final"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4a9bc956c36f6e140aa7c41fb5f241d2
+    layerID: 22
+    mosaicPosition: {x: 4024, y: 1092}
+  - name: Ponte para fora do mapa
+    spriteName: Ponte para fora do mapa
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 27fd722ff4959ca4c987e36b7e777383
+    layerID: 17
+    mosaicPosition: {x: 5406, y: 1092}
+  - name: "Sa\xEDda do casteki"
+    spriteName: "Sa\xEDda do casteki"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9751d3c2a136c9f429e9539ff912b150
+    layerID: 18
+    mosaicPosition: {x: 5772, y: 2180}
+  - name: Castelo
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 9
+    mosaicPosition: {x: 0, y: 0}
+  - name: Chama2
+    spriteName: Chama2
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 9a1fe1614ce52744db8dfc01e22f2342
+    layerID: 104
+    mosaicPosition: {x: 7942, y: 2180}
+  - name: Tocha2
+    spriteName: Tocha2
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 2fa463a0a6ba2df488bda688d332eefb
+    layerID: 103
+    mosaicPosition: {x: 7793, y: 2180}
+  - name: Chama
+    spriteName: Chama
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 7603cbafc9ec650409cff7fe3a39b211
+    layerID: 101
+    mosaicPosition: {x: 7981, y: 2180}
+  - name: Tocha
+    spriteName: Tocha
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 90f5313318b69824e971ddb5f6935074
+    layerID: 100
+    mosaicPosition: {x: 7821, y: 2180}
+  - name: Ponte para o fundo do castelo
+    spriteName: Ponte para o fundo do castelo
+    isGroup: 0
+    parentIndex: 4
+    spriteID: e072dc8cc6ae119468db1404a9294b2c
+    layerID: 23
+    mosaicPosition: {x: 7081, y: 2180}
+  - name: Fundo do castelo
+    spriteName: Fundo do castelo
+    isGroup: 0
+    parentIndex: 4
+    spriteID: ec04deac60a829643bb8b46884c6e743
+    layerID: 14
+    mosaicPosition: {x: 4, y: 1092}
+  - name: Castelo
+    spriteName: Castelo
+    isGroup: 0
+    parentIndex: 4
+    spriteID: c47a828bf3a2d92429b15e3ad26a07ce
+    layerID: 7
+    mosaicPosition: {x: 5772, y: 4}
+  - name: Chama4
+    spriteName: Chama4
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 62e5574ff3693cb49bb24575784a2b0c
+    layerID: 110
+    mosaicPosition: {x: 7896, y: 2180}
+  - name: Tocha4
+    spriteName: Tocha4
+    isGroup: 0
+    parentIndex: 4
+    spriteID: eb17befd0427faa40a882bd014aa8118
+    layerID: 109
+    mosaicPosition: {x: 7713, y: 2180}
+  - name: Chama3
+    spriteName: Chama3
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 1d61cb964e4f1554d8cdcd2e4861b61e
+    layerID: 106
+    mosaicPosition: {x: 7849, y: 2180}
+  - name: Tocha3
+    spriteName: Tocha3
+    isGroup: 0
+    parentIndex: 4
+    spriteID: df87379cee260184b8718129574505dc
+    layerID: 105
+    mosaicPosition: {x: 7632, y: 2180}
+  - name: montanhas
+    spriteName: montanhas
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 777ff35286c039f4b97bfa3e20fcc3ed
+    layerID: 25
+    mosaicPosition: {x: 4, y: 2919}
+  - name: "N\xFAvens"
+    spriteName: "N\xFAvens"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 37fd0f217866a2d4c99de01f08247b90
+    layerID: 24
+    mosaicPosition: {x: 4, y: 2180}
+  - name: "c\xE8u"
+    spriteName: "c\xE8u"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bc2b00e738d62ff46a22715c19ce2a7d
+    layerID: 16
+    mosaicPosition: {x: 4, y: 4}
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 61f06f9afc6db5149ae64b0d7fc67b37
+    layerID: 2
+    mosaicPosition: {x: 7793, y: 2317}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 1
+  textureAssetName: Level 1 Texture
+  prefabAssetName: Level 1 Prefab
+  spriteLibAssetName: Level 1 Sprite Lib
+  secondarySpriteTextures: []

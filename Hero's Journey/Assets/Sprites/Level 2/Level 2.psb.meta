@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: 6e7f2fff787bf0c4482daa62a498977a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: "\xC1rvore da entrada"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1953
+      width: 1341
+      height: 890
+    spriteID: 9f5531ef17c763146a04724fdb1809cc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1902}
+  - name: Entrada do mapa
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5469
+      y: 1582
+      width: 2014
+      height: 330
+    spriteID: 35fac65da84167c43939c859f7db2d36
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5469, y: 1582}
+  - name: PLATAFORMA
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1353
+      y: 2553
+      width: 326
+      height: 137
+    spriteID: 54a79bd5727804241aeba4f0d0b37a9d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 95, y: 2366}
+  - name: Centro do mapa
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5469
+      y: 1092
+      width: 1673
+      height: 482
+    spriteID: 070c978dc3f194d4b800baffa38ee306
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3374, y: 1092}
+  - name: casa
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4502
+      y: 2583
+      width: 301
+      height: 249
+    spriteID: 205a1786540f1fd4e91fbfe48795d43e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1278, y: 2174}
+  - name: PLATAFORMA copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1353
+      y: 2698
+      width: 275
+      height: 116
+    spriteID: baf0ed9459265fb4f8d961f8b95e900f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2443, y: 2349}
+  - name: PLATAFORMA COM BASE
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5772
+      y: 4
+      width: 1728
+      height: 810
+    spriteID: 32df5facb749f8f49939a9a73f8bb3c2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1740, y: 4}
+  - name: Nuvens
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1092
+      width: 5457
+      height: 853
+    spriteID: 3401a255660cbc6468b200ed4beb3df1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -56, y: 865}
+  - name: "c\xE8u"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 5760
+      height: 1080
+    spriteID: 191154706ca252a44adef8cbcee16d50
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2287
+      y: 1953
+      width: 442
+      height: 571
+    spriteID: 34d3602672ae6ba44978275faab9bdc0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2124, y: 1698}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy 2"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3634
+      y: 1953
+      width: 426
+      height: 554
+    spriteID: df671b7352137934f839fdfa97510a65
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3250, y: 1681}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy 3"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1820
+      y: 1953
+      width: 459
+      height: 591
+    spriteID: 3afa43abdc254024f8a2f58a443208a1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1325, y: 1663}
+  - name: "PREFAB \xC1RVORE DA FLORESTA"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5271
+      y: 1953
+      width: 375
+      height: 486
+    spriteID: 8e2de27d84e3d184d972dd71927cb617
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5230, y: 1683}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy 4"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4502
+      y: 1953
+      width: 348
+      height: 622
+    spriteID: 3df1e98e3c7c7dd4a9289bb22070a8d0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4502, y: 1724}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy 2_1"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4068
+      y: 1953
+      width: 426
+      height: 554
+    spriteID: cb5334ad588baa946bc4e9ef083c6249
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1702, y: 1561}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy_1"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2737
+      y: 1953
+      width: 441
+      height: 570
+    spriteID: c8a6e0ae90c1ad345b891b7e9678feef
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 198, y: 1522}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy 5"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7508
+      y: 4
+      width: 459
+      height: 592
+    spriteID: 6ceaf901b6cc8ae4cbc2a9fe280bbf46
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4757, y: -444}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy 3_1"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1353
+      y: 1953
+      width: 459
+      height: 592
+    spriteID: dd41ab1554f06ca4cae9934bfc9ac6be
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -868, y: 1544}
+  - name: "PREFAB \xC1RVORE DA FLORESTA_1"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4858
+      y: 1953
+      width: 405
+      height: 524
+    spriteID: 9cac34e15190f6c4cb56a4147add436a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1815, y: 1505}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy 4_1"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3186
+      y: 1953
+      width: 440
+      height: 568
+    spriteID: b807193b3f12e684995208fcea65d59f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -119, y: 1532}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 5760, y: 1080}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 8192
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Level 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 22
+    mosaicPosition: {x: 0, y: 0}
+  - name: Entrada
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 20
+    mosaicPosition: {x: 0, y: 0}
+  - name: "\xC1rvore da entrada"
+    spriteName: "\xC1rvore da entrada"
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 9f5531ef17c763146a04724fdb1809cc
+    layerID: 19
+    mosaicPosition: {x: 4, y: 1953}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy"
+    spriteName: "PREFAB \xC1RVORE DA FLORESTA copy"
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 34d3602672ae6ba44978275faab9bdc0
+    layerID: 26
+    mosaicPosition: {x: 2287, y: 1953}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy 2"
+    spriteName: "PREFAB \xC1RVORE DA FLORESTA copy 2"
+    isGroup: 0
+    parentIndex: 1
+    spriteID: df671b7352137934f839fdfa97510a65
+    layerID: 27
+    mosaicPosition: {x: 3634, y: 1953}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy 3"
+    spriteName: "PREFAB \xC1RVORE DA FLORESTA copy 3"
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 3afa43abdc254024f8a2f58a443208a1
+    layerID: 28
+    mosaicPosition: {x: 1820, y: 1953}
+  - name: "PREFAB \xC1RVORE DA FLORESTA"
+    spriteName: "PREFAB \xC1RVORE DA FLORESTA"
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 8e2de27d84e3d184d972dd71927cb617
+    layerID: 18
+    mosaicPosition: {x: 5271, y: 1953}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy 4"
+    spriteName: "PREFAB \xC1RVORE DA FLORESTA copy 4"
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 3df1e98e3c7c7dd4a9289bb22070a8d0
+    layerID: 29
+    mosaicPosition: {x: 4502, y: 1953}
+  - name: Entrada do mapa
+    spriteName: Entrada do mapa
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 35fac65da84167c43939c859f7db2d36
+    layerID: 17
+    mosaicPosition: {x: 5469, y: 1582}
+  - name: PLATAFORMA
+    spriteName: PLATAFORMA
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 54a79bd5727804241aeba4f0d0b37a9d
+    layerID: 16
+    mosaicPosition: {x: 1353, y: 2553}
+  - name: Meio
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 14
+    mosaicPosition: {x: 0, y: 0}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy 2"
+    spriteName: "PREFAB \xC1RVORE DA FLORESTA copy 2_1"
+    isGroup: 0
+    parentIndex: 10
+    spriteID: cb5334ad588baa946bc4e9ef083c6249
+    layerID: 33
+    mosaicPosition: {x: 4068, y: 1953}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy"
+    spriteName: "PREFAB \xC1RVORE DA FLORESTA copy_1"
+    isGroup: 0
+    parentIndex: 10
+    spriteID: c8a6e0ae90c1ad345b891b7e9678feef
+    layerID: 34
+    mosaicPosition: {x: 2737, y: 1953}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy 5"
+    spriteName: "PREFAB \xC1RVORE DA FLORESTA copy 5"
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 6ceaf901b6cc8ae4cbc2a9fe280bbf46
+    layerID: 35
+    mosaicPosition: {x: 7508, y: 4}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy 3"
+    spriteName: "PREFAB \xC1RVORE DA FLORESTA copy 3_1"
+    isGroup: 0
+    parentIndex: 10
+    spriteID: dd41ab1554f06ca4cae9934bfc9ac6be
+    layerID: 32
+    mosaicPosition: {x: 1353, y: 1953}
+  - name: casa
+    spriteName: casa
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 205a1786540f1fd4e91fbfe48795d43e
+    layerID: 12
+    mosaicPosition: {x: 4502, y: 2583}
+  - name: "PREFAB \xC1RVORE DA FLORESTA"
+    spriteName: "PREFAB \xC1RVORE DA FLORESTA_1"
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 9cac34e15190f6c4cb56a4147add436a
+    layerID: 31
+    mosaicPosition: {x: 4858, y: 1953}
+  - name: "PREFAB \xC1RVORE DA FLORESTA copy 4"
+    spriteName: "PREFAB \xC1RVORE DA FLORESTA copy 4_1"
+    isGroup: 0
+    parentIndex: 10
+    spriteID: b807193b3f12e684995208fcea65d59f
+    layerID: 30
+    mosaicPosition: {x: 3186, y: 1953}
+  - name: Centro do mapa
+    spriteName: Centro do mapa
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 070c978dc3f194d4b800baffa38ee306
+    layerID: 13
+    mosaicPosition: {x: 5469, y: 1092}
+  - name: PLATAFORMA copy
+    spriteName: PLATAFORMA copy
+    isGroup: 0
+    parentIndex: 10
+    spriteID: baf0ed9459265fb4f8d961f8b95e900f
+    layerID: 11
+    mosaicPosition: {x: 1353, y: 2698}
+  - name: PLATAFORMA COM BASE
+    spriteName: PLATAFORMA COM BASE
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 32df5facb749f8f49939a9a73f8bb3c2
+    layerID: 10
+    mosaicPosition: {x: 5772, y: 4}
+  - name: Nuvens
+    spriteName: Nuvens
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3401a255660cbc6468b200ed4beb3df1
+    layerID: 7
+    mosaicPosition: {x: 4, y: 1092}
+  - name: "c\xE8u"
+    spriteName: "c\xE8u"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 191154706ca252a44adef8cbcee16d50
+    layerID: 6
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Level 2 Texture
+  prefabAssetName: Level 2 Prefab
+  spriteLibAssetName: Level 2 Sprite Lib
+  secondarySpriteTextures: []
